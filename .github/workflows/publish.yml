@@ -2,9 +2,8 @@ name: CI Workflow
 on:
   push:
     branches:
-      - main    
-       
-                         
+      - main
+          
 jobs:
   #build:
     #uses: LaisLora/github-actions-templates/.github/workflows/build.yml@main
